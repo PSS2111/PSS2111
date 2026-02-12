@@ -16,40 +16,59 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-- Java
-- JavaScript
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+---
 
 ### 🌐 Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- React.js
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+---
 
 ### ⚙️ Backend
-- Spring Boot
-- Node.js
-- Express.js
-- REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+---
 
 ### 🗄️ Databases
-- MongoDB
-- MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
 
 ### ☁️ DevOps & Tools
-- Docker
-- Git & GitHub
-- Linux
-- Postman
-- Render Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
+</p>
 
-### ☁️ Automation & Tools
-- Selenuim
-- Appium
-- Rest Assured
-- Jmeter
-- Cypress
+<p>
+  <img src="https://img.shields.io/badge/Render-Deployment-purple?style=for-the-badge&logo=render&logoColor=white" />
+</p>
 
+---
+
+### 🤖 Automation & Testing Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Appium-Testing-472E92?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rest_Assured-API_Testing-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JMeter-Performance_Testing-red?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cypress" />
+</p>
 ---
 
 ## 📌 Current Focus
@@ -63,15 +82,20 @@
 
 ## 🏆 Featured Projects
 
-### 🔗 URL Shortener (MERN Stack)
+### 🔗 URL Shortener https://da.gd/URLShort 
 - Full stack link shortener
 - Authentication + Analytics
 - Deployed on Render
 
-### 📰 News Web App
+### 📰 News Web App https://da.gd/newsapp
 - Dynamic content rendering
 - Responsive UI
 - API Integration
+
+  ### 📰 Notify https://da.gd/Notify
+- Notes website java,SpringBoot
+- CRUD
+- Authentication
 
 *(More projects coming soon)*
 

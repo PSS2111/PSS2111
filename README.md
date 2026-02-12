@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Prabal 👨‍💻</h1>
-<h3 align="center">Full Stack Java Developer | DevOps Learner | Problem Solver</h3>
+<h3 align="center">Full Stack Java and MERN Developer | SDET/Automation Experienced | DevOps Learner | Problem Solver</h3>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 M.Tech Computer Science Student
-- 💻 Focused on **Java Full Stack Development**
+- 💻 Focused on **Java and MERN Full Stack Development**
 - ⚙️ Learning **DevOps & Cloud Technologies**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🎯 Goal: Become a **Production-Ready Software Engineer**
@@ -43,6 +43,13 @@
 - Postman
 - Render Deployment
 
+### ☁️ Automation & Tools
+- Selenuim
+- Appium
+- Rest Assured
+- Jmeter
+- Cypress
+
 ---
 
 ## 📌 Current Focus
@@ -67,18 +74,6 @@
 - API Integration
 
 *(More projects coming soon)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PSS2111&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSS2111&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
